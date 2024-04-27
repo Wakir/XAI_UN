@@ -1,0 +1,16 @@
+Linki do datasetów:
+
+Abalone:
+https://archive.ics.uci.edu/dataset/1/abalone
+
+Adult:
+https://archive.ics.uci.edu/dataset/2/adult
+
+Breast Cancer:
+https://archive.ics.uci.edu/dataset/14/breast+cancer
+
+Diabetes:
+https://archive.ics.uci.edu/dataset/34/diabetes
+
+Wine:
+https://archive.ics.uci.edu/dataset/109/wine
